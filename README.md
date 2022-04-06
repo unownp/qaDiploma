@@ -7,7 +7,7 @@
 - [Реализованные проверки](#Реализованные-проверки)
 - [Jenkins job](#-Jenkins-job)
 - [Allure отчет](#-Allure-отчет)
-- [Allure testOps](#-Allure testOps)
+- [Allure testOps](#-Allure-testOps)
 - [Jira](#-Jira)
 
 ## :rocket: Технологии и инструменты
