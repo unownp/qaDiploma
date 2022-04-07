@@ -39,13 +39,6 @@
 <a href="https://jenkins.autotests.cloud/job/apiTests/"><img src="images/jenkins_job.png" alt="Jenkins"/></a>
 </p>
 
-## Параметры сборки в Jenkins:
-
-- browser (браузер, по умолчанию chrome)
-- browserVersion (версия браузера, по умолчанию 91.0) 
-- remoteUrl (Selenoid URL)
-- remoteState (дефолтно-true, если false - возможность запускать локально)
-
 ## :computer: Запуск тестов из терминала
 
 Локальный и удаленный запуск:
@@ -75,5 +68,5 @@ gradle clean test
 ### <img src="images/Jira.svg" width="25" height="25"  alt="Jira"/></a> Jira
 <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-365">Таск в Jira</a>
 <p align="center">
-<img title="Selenoid Video" src="images/JiraIssue.png"> 
+<img title="Jira Issue" src="images/JiraIssue.png"> 
 </p>
