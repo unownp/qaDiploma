@@ -14,7 +14,6 @@ import java.util.ArrayList;
 public class Post {
 
     String id;
-    //string(length: 6-50, preview only)
     String text;
     String image;
     Integer likes;

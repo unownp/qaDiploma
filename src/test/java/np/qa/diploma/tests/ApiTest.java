@@ -2,7 +2,6 @@ package np.qa.diploma.tests;
 
 import np.qa.diploma.helpers.TestHelper;
 import np.qa.diploma.models.*;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

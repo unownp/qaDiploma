@@ -9,7 +9,6 @@ import java.util.ArrayList;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Comment {
     String id;
-    //string(length: 6-50, preview only)
     String message;
     String post;
     String publishDate;
