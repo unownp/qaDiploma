@@ -1,4 +1,4 @@
-# Проект для домашки/диплома(API-часть)
+# Диплом(API)
 <a target="_blank" href="https://dummyapi.io">dummyapi.io</a>
 
 ## :pushpin: Содержание:
